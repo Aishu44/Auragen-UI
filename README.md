@@ -2,3 +2,4 @@
 git add https://www.figma.com/make/7F4kwPguAeWTCe1T6kmCJk/Generative-UI-for-Auragen?p=f&t=pZA4EWhsYRSxfVHX-0
 git add https://hix.ai/home/cmr32qyox00ng8c14obom6w51
 git add https://www.aidesigner.ai/editor/0f854174-8f78-4142-b849-b039a282b73b
+git add https://www.aidesigner.ai/editor/c82adac2-6f59-43f5-a8c8-e5c92e5548c9
