@@ -4,3 +4,4 @@ git add https://hix.ai/home/cmr32qyox00ng8c14obom6w51
 git add https://www.aidesigner.ai/editor/0f854174-8f78-4142-b849-b039a282b73b
 git add https://www.aidesigner.ai/editor/c82adac2-6f59-43f5-a8c8-e5c92e5548c9
 git add https://www.aidesigner.ai/editor/fd4a88bb-8412-4828-b12b-d42f0ca891ee
+git add https://www.figma.com/make/xsouyq50W2sky9EAvqgfAL/Generative-UI-Code-Generation?code-node-id=0-9&p=f&t=YcQRcVlFSxlxsGBp-0&fullscreen=1
