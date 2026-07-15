@@ -7,3 +7,4 @@ git add https://www.aidesigner.ai/editor/fd4a88bb-8412-4828-b12b-d42f0ca891ee
 git add https://www.figma.com/make/xsouyq50W2sky9EAvqgfAL/Generative-UI-Code-Generation?code-node-id=0-9&p=f&t=YcQRcVlFSxlxsGBp-0&fullscreen=1
 git add https://www.figma.com/make/z8Ceq1OjK3w7vv9O4yRW6o/Generative-UI-Code-Generation?p=f&t=fc5STAYtVHA63iuz-0
 git add https://eu1.make.com/2140462/scenarios/6555954/edit
+git add https://eu1.make.com/2140462/scenarios/6555924/edit
