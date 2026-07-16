@@ -8,3 +8,4 @@ git add https://www.figma.com/make/xsouyq50W2sky9EAvqgfAL/Generative-UI-Code-Gen
 git add https://www.figma.com/make/z8Ceq1OjK3w7vv9O4yRW6o/Generative-UI-Code-Generation?p=f&t=fc5STAYtVHA63iuz-0
 git add https://eu1.make.com/2140462/scenarios/6555954/edit
 git add https://eu1.make.com/2140462/scenarios/6555924/edit
+git add https://eu1.make.com/2140462/scenarios/6569304/edit
